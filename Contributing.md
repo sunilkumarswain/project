@@ -1,5 +1,5 @@
 Steps for contributing to this project
-Step: clone the project
+Step: clone the required project
 create key: ssh-keygen -t ed25519 -C "your@email.com"
 root@ubuntu-s-1vcpu-1gb-sfo3-01:~/.ssh# cat id_ed25519.pub
 ssh-ed25519 AAzaC1lZDI1NTE5AAAAIMbW8iM/jfMzU8u365oEnEvGfUT your@email.com
